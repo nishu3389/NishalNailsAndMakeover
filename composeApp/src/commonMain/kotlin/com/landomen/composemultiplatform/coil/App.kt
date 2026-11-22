@@ -10,8 +10,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import com.landomen.composemultiplatform.coil.ui.ArticleListScreen
 import com.landomen.composemultiplatform.coil.ui.theme.AppTheme
-import composemultiplatformcoilsample.composeapp.generated.resources.Res
-import composemultiplatformcoilsample.composeapp.generated.resources.app_name
+import nishalnailsandmakeover.composeapp.generated.resources.Res
+import nishalnailsandmakeover.composeapp.generated.resources.app_name
 import org.jetbrains.compose.resources.stringResource
 import org.jetbrains.compose.ui.tooling.preview.Preview
 

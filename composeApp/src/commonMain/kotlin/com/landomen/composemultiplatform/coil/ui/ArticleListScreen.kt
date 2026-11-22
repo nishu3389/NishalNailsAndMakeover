@@ -21,16 +21,17 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import coil3.compose.AsyncImage
 import com.landomen.composemultiplatform.coil.model.Article
-import composemultiplatformcoilsample.composeapp.generated.resources.Res
-import composemultiplatformcoilsample.composeapp.generated.resources.locally_loaded_image_title
 import kotlinx.datetime.Instant
 import kotlinx.datetime.LocalDateTime
 import kotlinx.datetime.TimeZone
 import kotlinx.datetime.format
 import kotlinx.datetime.format.char
 import kotlinx.datetime.toLocalDateTime
+import nishalnailsandmakeover.composeapp.generated.resources.Res
+import nishalnailsandmakeover.composeapp.generated.resources.locally_loaded_image_title
 import org.jetbrains.compose.resources.ExperimentalResourceApi
 import org.jetbrains.compose.resources.stringResource
+
 
 @Composable
 internal fun ArticleListScreen() {
@@ -165,3 +166,4 @@ private fun LocallyLoadedImage() {
         )
     }
 }
+

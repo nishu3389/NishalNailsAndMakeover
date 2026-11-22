@@ -1,4 +1,4 @@
-rootProject.name = "ComposeMultiplatformCoilSample"
+rootProject.name = "NishalNailsAndMakeover"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
